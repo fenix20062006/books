@@ -1,0 +1,19 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "Repositorio Ejemplos libros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenix20062006/books.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fenix20062006/books/issues"
+  },
+  "homepage": "https://github.com/fenix20062006/books#readme"
+}
