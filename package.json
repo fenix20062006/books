@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fenix20062006/books/issues"
   },
-  "homepage": "https://github.com/fenix20062006/books#readme"
+  "homepage": "https://github.com/fenix20062006/books#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
