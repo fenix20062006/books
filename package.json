@@ -17,6 +17,21 @@
   },
   "homepage": "https://github.com/fenix20062006/books#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "clone-buffer": "^1.0.0",
+    "cloneable-readable": "^1.0.0",
+    "del": "^3.0.0",
+    "fs.realpath": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-processhtml": "^1.1.0",
+    "gulp-uglify": "^3.0.0",
+    "is-stream": "^1.1.0",
+    "lru-cache": "^4.1.1",
+    "path": "^0.12.7",
+    "process-nextick-args": "^1.0.7",
+    "run-sequence": "^1.2.2",
+    "safe-buffer": "^5.1.1",
+    "sigmund": "^1.0.1",
+    "util-deprecate": "^1.0.2"
   }
 }
